@@ -1,1 +1,1 @@
-# final-qualifying-work
+# diploma-Ising-nn
