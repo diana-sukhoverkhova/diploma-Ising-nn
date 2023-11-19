@@ -51,4 +51,4 @@ T_ = T[idx]
 num_conf = params['num_conf']
 opt = params['opt']
 
-smlt(opt, num_conf, L, Jd, M, T_)
+smlt(opt, num_conf, L, Jd, Jv, T_)
